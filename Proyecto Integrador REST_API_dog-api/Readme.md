@@ -18,10 +18,10 @@ El desconocimiento práctico sobre cómo realizar la integración y comunicació
 •	Configuración del Servidor Web <br>
  
 ## Capturas de pantalla
-Página con la lista de razas de perros 
+Página con la lista de razas de perros <br>
  <img width="520" height="776" alt="Captura de pantalla 2026-06-03 141924" src="https://github.com/user-attachments/assets/ba149609-fa20-4c53-9c68-6dbe11bb5aa7" />
 
-Vista cuando se selecciona que aparezcan una sola raza de perro  
+Vista cuando se selecciona que aparezcan una sola raza de perro  <br>
  <img width="228" height="612" alt="Captura de pantalla 2026-06-03 141937" src="https://github.com/user-attachments/assets/cdb41f28-2275-46df-adb3-b919eb8cacce" />
 
 ## Instrucciones de ejecución 
